@@ -4,8 +4,8 @@
 
 # Project Overview
 
-    Hospital ABC, a leading healthcare provider, aims to optimize its resource allocation and improve patient care by understanding the factors influencing medical costs for its patients. To achieve this, Hospital 
-ABC has collected a comprehensive dataset containing information about patients' demographics, lifestyle, health status, and medical expenses etc. The dataset includes attributes   such as age, gender, BMI, smoking 
+Hospital ABC, a leading healthcare provider, aims to optimize its resource allocation and improve patient care by understanding the factors influencing medical costs for its patients. To achieve this, Hospital 
+ABC has collected a comprehensive dataset containing information about patients' demographics, lifestyle, health status, and medical expenses etc. The dataset includes attributes   such as age, gender, BMIsmoking 
 status, region, as well as additional information like occupation, exercise frequency, chronic conditions, and more. How can we predict medical costs for patients based on demographic factors, lifestyle-related
 information, health status, insurance plan type, family medical history, distance to the nearest hospital, and primary care physician visits.
 
